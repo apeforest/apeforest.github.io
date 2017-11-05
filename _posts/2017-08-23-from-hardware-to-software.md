@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "From Silicon to Bits"
 date:   2017-09-15 22:56:48 -0700
